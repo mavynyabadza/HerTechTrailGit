@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(0, 255, 98);
+    border: 2px; color: #000000;
+}
+h1 {
+    font-size: 3;
+}
+img {
+    border-radius:30% ;
+}
+#list{
+    border: 1px dashed black;
+}
+.par{
+    color: aqua;
+}
