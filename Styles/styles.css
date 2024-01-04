@@ -13,4 +13,14 @@ img {
 }
 .par{
     color: aqua;
+
+}
+.myform{
+    width: 200%;
+    background-color: aqua;
+}
+.password{
+    padding: 4px;
+    border: 2px solid red;
+    width: 50%;
 }
